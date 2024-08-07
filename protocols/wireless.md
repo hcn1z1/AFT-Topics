@@ -34,14 +34,11 @@ in the following example, we provide an advanced example of the structure of pro
   - **EF1**: Username (String)
   - **EF2**: Picture (Binary or URL)
   - **EF3**: Plan (String)
-- **DF2**: Payment System Environment (PSE)
-  - **EF4**: Payment credentials (Encrypted data)
 
 **Elementary Files (EFs)**
 - **EF1**: Contains Username.
 - **EF2**: Contains Picture.
 - **EF3**: Contains Plan.
-- **EF4**: Contains payment credentials like tokenized card information or digital wallet identifiers.
 
 **Example APDU Command to Select the User Data DF**
 - **CLA**: `0x00`

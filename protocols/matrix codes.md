@@ -51,6 +51,7 @@ To implement qr-code we need the following compenents
 the following picture represent the structure we're aiming for
 
 ![QRCode](images/qrcode.png)
+
 **Figure** :  Overview of a QR code based **AMS**
 
 This structure can be implemented across all sites. The checking system will be implemented and explained in another chapter (topic).
